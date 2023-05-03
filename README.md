@@ -1,5 +1,9 @@
 # 💫 About Me:
-Formei no colégio Militar Tiradentes em 2019.<br>Em 2020 ingressei na Dom Helder no curso de Ciências da Computação com bolsa Integral via vestibular.<br>Mantenho um alto nível de notas e a expectativa de formação é dezembro 2023.<br>Atualmente sou analista de sistemas na empresa TAMBASA.<br>Trabalhei um ano como suporte e por meio das minhas habilidades técnicas, interpessoais e de personalidade fui promovido a Desenvolvedor Mobile e logo em seguida a Analista de Sistemas.<br>Atuo com a implementação em nosso ERP em Progress4gl, desenvolvo Back-End em PHP e Node.js e me especializo principalmente em desenvolvimento Mobile, usando Flutter.<br>Mas com certeza minha maior qualificação é uma extrema facilidade de aprendizado e disciplina.
+Formando em Ciência da Computação pela Dom Helder em 2023 como bolsista integral, sou um Analista de Sistemas apaixonado pelo desenvolvimento de soluções tecnológicas inovadoras. Com experiência em desenvolvimento mobile utilizando Flutter e Dart, também atuo como Fullstack Developer com foco em PHP e JavaScript, além de trabalhar com ERP usando Progress4GL.
+
+Orgulho-me de ser extremamente autodidata, sempre buscando aprimorar meus conhecimentos e habilidades de forma independente. Minha formação no Colégio Militar Tiradentes NSV (2019) me proporcionou disciplina, excelente capacidade de trabalho em equipe e habilidade para aprender rapidamente. Essas competências me renderam várias promoções consecutivas nos últimos dois anos na Tambasa Atacadistas, uma renomada empresa localizada em Contagem.
+
+Com determinação e paixão pela tecnologia, busco constantemente me aprimorar e contribuir para o crescimento e sucesso de minha equipe e organização. Estou sempre aberto a novas oportunidades e conexões que possam enriquecer minha trajetória profissional e pessoal.
 
 
 ## 🌐 Socials:
