@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formando em Ciência da Computação pela Dom Helder em 2023 como bolsista integral, sou um Analista de Sistemas apaixonado pelo desenvolvimento de soluções tecnológicas inovadoras. Com experiência em desenvolvimento mobile utilizando Flutter e Dart, também atuo como Fullstack Developer com foco em PHP e JavaScript, além de trabalhar com ERP usando Progress4GL.
+Formado em Ciência da Computação pela Dom Helder em 2023 como bolsista integral, sou um Analista de Sistemas apaixonado pelo desenvolvimento de soluções tecnológicas inovadoras. Com experiência em desenvolvimento mobile utilizando Flutter e Dart, também atuo como Fullstack Developer com foco em PHP e JavaScript, além de trabalhar com ERP usando Progress4GL.
 
 Orgulho-me de ser extremamente autodidata, sempre buscando aprimorar meus conhecimentos e habilidades de forma independente. Minha formação no Colégio Militar Tiradentes NSV (2019) me proporcionou disciplina, excelente capacidade de trabalho em equipe e habilidade para aprender rapidamente. Essas competências me renderam várias promoções consecutivas nos últimos dois anos na Tambasa Atacadistas, uma renomada empresa localizada em Contagem.
 
