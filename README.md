@@ -9,7 +9,7 @@ Atuo também com desenvolvimento mobile em Flutter/Dart, criando aplicações co
 
 Recentemente, desenvolvi uma integração entre o Actual e o Actual-AI, utilizando Pluggy para conexões financeiras via Open Finance, coleta e normalização de dados, além de categorização inteligente assistida por IA, priorizando eficiência operacional e redução de custos computacionais.
 
-Gosto de atuar em projetos desafiadores, acompanhando o ciclo completo de desenvolvimento — da concepção técnica à entrega em produção — buscando soluções bem fundamentadas, sustentáveis e alinhadas às necessidades reais do negócio. Ao longo da minha trajetória, tive a oportunidade de assumir responsabilidades técnicas relevantes e trabalhar com sistemas complexos, o que contribuiu para um amadurecimento profissional acelerado.
+Gosto de atuar em projetos desafiadores, acompanhando o ciclo completo de desenvolvimento da concepção técnica à entrega em produção buscando soluções bem fundamentadas, sustentáveis e alinhadas às necessidades reais do negócio. Ao longo da minha trajetória, tive a oportunidade de assumir responsabilidades técnicas relevantes e trabalhar com sistemas complexos, o que contribuiu para um amadurecimento profissional acelerado.
 
 Tenho entusiasmo genuíno por aprender, experimentar novas abordagens e transformar ideias em soluções úteis. Busco evoluir constantemente como profissional, colaborar com pessoas tecnicamente fortes e contribuir de forma concreta para produtos e projetos que façam sentido no mundo real.
 
